@@ -22,6 +22,7 @@ Tune and compare models/classifiers
 ### Final Analysis
 Deep Learning Model: Loss = 0.23553 Accuracy = 0.90503 \
 KNN (K Nearest Neighbors) Model: Training Data Score = 0.84818 Testing Data Score = 0.82952 (k=13) \
-Logistic Regression Model: Training Data Score = 0.84703 Testing Data Score = 0.86156 
+Logistic Regression Model: Training Data Score = 0.84703 Testing Data Score = 0.86156 \
+Random Forests Model: Training Data Score = 1.0 Testing Data Score = 0.91133
 
-Of the three models I have created for this data all three look good. Technically I would say any of these models could be used, however, as the Deep Learning Model has the highest accuracy I would say that one is the best method to use.
+Of the four models I have created for this data all look quite good. Technically I would say any of these models could be used. As the Random Foests Model and the Deep Learning Model have the highest accuracy/scoring either of these would be the best method to use.
