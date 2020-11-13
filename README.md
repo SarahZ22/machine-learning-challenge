@@ -2,17 +2,17 @@
 
 ![PlanetsImage](https://physicsworld.com/wp-content/uploads/2018/02/2018-02-13-trappist.jpg)
 
-#### Background
+### Background
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system. The purpose of this project was to create machine learning models capable of classifying candidate exoplanets from a raw dataset.
 
 Data From: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
-##### Project Requirements:
+#### Project Requirements:
 Preprocess the raw data \
 Tune the models \
 Compare two or more models
 
-##### Process:
+#### Process:
 Preprocessed the raw data \
 Scaled numerical data \
 Separated the data into training and testing \
