@@ -25,4 +25,4 @@ KNN (K Nearest Neighbors) Model: Training Data Score = 0.84818 Testing Data Scor
 Logistic Regression Model: Training Data Score = 0.84703 Testing Data Score = 0.86156 \
 Random Forests Model: Training Data Score = 1.0 Testing Data Score = 0.91133
 
-Of the four models I have created for this data all look quite good. Technically I would say any of these models could be used. As the Random Foests Model and the Deep Learning Model have the highest accuracy/scoring either of these would be the best method to use.
+Of the four models I have created for this data all look quite good. As the Random Foests Model and the Deep Learning Model have the highest accuracy/scoring either of these would be the best method to use for further research.
